@@ -1,4 +1,4 @@
-# My Profile Web Page
+# My Profile Page
 
 This project is a personal profile webpage designed using HTML, CSS, and JavaScript. It includes a formal introduction, a styled contact form, and an interactive greeting button.
 
@@ -10,7 +10,7 @@ This project is a personal profile webpage designed using HTML, CSS, and JavaScr
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 - **HTML5** – for content layout and structure
 - **CSS3** – for styling, spacing, and layout customization
 - **JavaScript** – for dynamic interaction (greeting feature)
