@@ -29,7 +29,7 @@ This project is a personal profile webpage designed using HTML, CSS, and JavaScr
 ---
 ##  Output Screenshot
 
-![Screenshot of My Profile Page](scr1.jpg)(scr2.jpg)
+![Screenshot of My Profile Page](scr1.png),(scr2.png)
 
 ##  Conclusion
 This project showcases a clean, formal, and interactive personal profile page suitable for academic or professional use. It highlights core web development skills and provides a foundation for building more advanced portfolio sites.
